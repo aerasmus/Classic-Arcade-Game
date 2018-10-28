@@ -1,3 +1,4 @@
+"use strict";
 /**
  * The base position of objects on canvas are x=9,y=17.
  * Players moves 100 unit in single move to the left and right
