@@ -2,7 +2,7 @@
 # CLASSIC ARCADE GAME
 In this simple game, you are to pick gems along the way up while you avoid bugs and rocks on your path.
 
-## How TO LOAD GAME
+## HOW TO LOAD GAME
  * Download or clone project files.
  * In the project files, locate the index.html file.
  * Right-click and open in your browser to play game.
